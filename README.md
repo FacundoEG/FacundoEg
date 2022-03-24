@@ -85,6 +85,17 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
         </tr>
 </table>
 
+### Deploy
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+             <td width="80px" align="center">
+            <span><strong>Heroku</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+            </td>
+        </tr>
+</table>
+
 ### Control de registro
 <table width="320px">
     <tbody>
