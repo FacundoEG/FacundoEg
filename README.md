@@ -63,10 +63,6 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
             <span><strong>Express</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
-          <td width="80px" align="center">
-            <span><strong>Heroku</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
-            </td>
         </tr>
 </table>
 
