@@ -107,17 +107,6 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
         </tr>
 </table>
 
-### Sistema operativo
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="60px" align="center">
-            <span><strong>Linux</strong></span><br>
-            <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-            </td>
-        </tr>
-</table>
-
 ## 📈 My Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FacundoEG&theme=dark&layout=compact"/>
 
