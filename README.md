@@ -111,9 +111,9 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
 <table width="320px">
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
+            <td width="60px" align="center">
             <span><strong>Linux</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+            <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
             </td>
         </tr>
 </table>
