@@ -17,17 +17,6 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
 
 ## 🛠 Tecnologías con las que trabajo
 
-### Actualmente aprendiendo 🧠
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-        </tr>
-</table>
-
 ### Frontend
 <table width="320px">
     <tbody>
