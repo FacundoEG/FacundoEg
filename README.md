@@ -14,7 +14,6 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
 
 
 
-
 ## 🛠 Tecnologías con las que trabajo
 
 ### Frontend
@@ -81,6 +80,10 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
              <td width="80px" align="center">
             <span><strong>Heroku</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Vercel</strong></span><br>
+            <img height="32px" src="https://cdn.freelogovectors.net/svg10/vercel-logo-freelogovectors.net_.svg">
             </td>
         </tr>
 </table>
