@@ -83,7 +83,7 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
             </td>
             <td width="80px" align="center">
             <span><strong>Vercel</strong></span><br>
-            <img height="32px" src="https://cdn.freelogovectors.net/svg10/vercel-logo-freelogovectors.net_.svg">
+            <img height="32px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">
             </td>
         </tr>
 </table>
