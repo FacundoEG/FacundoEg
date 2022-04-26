@@ -55,6 +55,10 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
             <span><strong>Express</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Sequelize</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+            </td>
         </tr>
 </table>
 
@@ -69,10 +73,6 @@ Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio 
             <td width="80px" align="center">
             <span><strong>PostgreSQL</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Sequelize</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
             </td>
         </tr>
 </table>
