@@ -3,10 +3,6 @@
 
 
 ## 🖥️ About Me
-Mi nombre es Facundo Graña y soy un Desarrollador Web Fullstack oriundo de Buenos Aires, Argentina.
-
-Actualmente trabajando como Desarrollador fulltime y tutor en [APX School](https://apx.school/).
-
 Si queres saber un poco mas sobre mi trabajo, te invito a que veas mi portfolio a continuacion 👇
 
 [![instagram](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://facundoeg.github.io/My-Landing-Page/)
